@@ -14,6 +14,18 @@
     },
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "xunitkata/xunitkata.csproj",
+          "target": "~/"
+        },
+        {
+          "file": "xunitkata/Testeri.cs",
+          "target": "~/"
+        }
+      ]
     }
   },
   "environment": {
