@@ -1,6 +1,8 @@
-﻿
+﻿using Xunit;
+
 namespace xunitkata {
   public class Testeri {
-    public int Tjoho() => 5;
+    [Fact]
+    public void Tjoho() => Assert.Equal(5, 6);
   }
 }
