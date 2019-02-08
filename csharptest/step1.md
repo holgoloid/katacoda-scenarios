@@ -1,7 +1,6 @@
-This is your first step.
+## Setup
 
-## Task
+Gå till `cd /home/scrapbook/tutorial/`{{execute}}
 
-This is an _example_ of creating a scenario and running a **command**
 
-`echo 'Hello World'`{{execute}}
+Kompilera med `msbuild xunitkata.csproj`{{execute}}
