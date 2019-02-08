@@ -18,11 +18,11 @@
     "assets": {
       "client": [
         {
-          "file": "xunitkata/xunitkata.csproj",
+          "file": "xunitkata.csproj",
           "target": "~/"
         },
         {
-          "file": "xunitkata/Testeri.cs",
+          "file": "Testeri.cs",
           "target": "~/"
         }
       ]
