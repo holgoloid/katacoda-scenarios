@@ -1,0 +1,1 @@
+unzip assets/packages.zip

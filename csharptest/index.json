@@ -10,7 +10,8 @@
     }],
     "intro": {
       "text": "intro.md",
-      "credits": ""
+      "credits": "",
+      "courseData": "unzip.ps1"
     },
     "finish": {
       "text": "finish.md"
@@ -22,7 +23,15 @@
           "target": "~/"
         },
         {
+          "file": "xunitkata.sln",
+          "target": "~/"
+        },
+        {
           "file": "Testeri.cs",
+          "target": "~/"
+        },
+        {
+          "file": "packages.zip",
           "target": "~/"
         }
       ]
