@@ -28,6 +28,10 @@
         {
           "file": "Testeri.cs",
           "target": "~/"
+        },
+        {
+          "file": "packages.zip",
+          "target": "~/"
         }
       ]
     }
