@@ -30,7 +30,7 @@
           "target": "~/"
         },
         {
-          "file": "packages.zip",
+          "file": "nuget.exe",
           "target": "~/"
         }
       ]
